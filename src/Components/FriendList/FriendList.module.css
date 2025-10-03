@@ -1,0 +1,28 @@
+.item{
+    font-weight: 500;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background-color: white;
+    color: black;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.status {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.online {
+  background-color: green;
+}
+
+.offline {
+  background-color: red;
+}
+
+.avatar{
+    margin: 0 10px;
+}
